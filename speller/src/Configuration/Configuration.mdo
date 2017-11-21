@@ -15,6 +15,7 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
+  <version>1.0.0.1</version>
   <defaultLanguage>Language.Русский</defaultLanguage>
   <dataLockControlMode>Managed</dataLockControlMode>
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
@@ -29,4 +30,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonForms>CommonForm.Speller</commonForms>
+  <dataProcessors>DataProcessor.DEV_Speller</dataProcessors>
 </mdclass:Configuration>
