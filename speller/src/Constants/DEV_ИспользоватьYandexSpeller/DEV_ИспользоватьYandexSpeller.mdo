@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c48b7822-765e-47be-b688-6aac7a43d2ba">
+  <producedTypes>
+    <managerType typeId="82d0824b-9a0a-4e16-8740-34f9bc7950a1" valueTypeId="3c606896-e591-4125-a895-16fab1c0503f">
+    </managerType>
+    <valueManagerType typeId="7d412c4c-9f02-4682-8cc9-4da13312cbd6" valueTypeId="f39394f0-d052-420b-b11f-09d59d73ec29">
+    </valueManagerType>
+  </producedTypes>
+  <name>DEV_ИспользоватьYandexSpeller</name>
+  <synonym>
+    <key>ru</key>
+    <value>DEV: Использовать Yandex.Speller</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

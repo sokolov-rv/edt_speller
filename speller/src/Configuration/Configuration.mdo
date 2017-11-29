@@ -30,6 +30,10 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.DEV_YandexSpeller</subsystems>
+  <commonModules>CommonModule.DEV_YandexSpeller</commonModules>
+  <functionalOptions>FunctionalOption.DEV_ИспользоватьYandexSpeller</functionalOptions>
+  <constants>Constant.DEV_ИспользоватьYandexSpeller</constants>
   <commonForms>CommonForm.Speller</commonForms>
-  <dataProcessors>DataProcessor.DEV_Speller</dataProcessors>
+  <dataProcessors>DataProcessor.DEV_YandexSpeller</dataProcessors>
 </mdclass:Configuration>

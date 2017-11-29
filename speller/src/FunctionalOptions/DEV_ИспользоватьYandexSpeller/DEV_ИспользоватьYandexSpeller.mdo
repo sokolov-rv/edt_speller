@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:FunctionalOption xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="29205d56-8142-4f3a-8e0e-b7b2bfa64e20">
+  <name>DEV_ИспользоватьYandexSpeller</name>
+  <synonym>
+    <key>ru</key>
+    <value>DEV: Использовать Yandex.Speller</value>
+  </synonym>
+  <location>Constant.DEV_ИспользоватьYandexSpeller</location>
+  <privilegedGetMode>true</privilegedGetMode>
+</mdclass:FunctionalOption>

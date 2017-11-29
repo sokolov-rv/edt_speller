@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="091c14a0-1449-4b5b-92f2-4b345994e9bf">
+  <name>DEV_YandexSpeller</name>
+  <synonym>
+    <key>ru</key>
+    <value>DEV_YandexSpeller</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

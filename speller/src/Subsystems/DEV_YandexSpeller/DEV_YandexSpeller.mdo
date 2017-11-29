@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="21f068e5-ea82-498f-81fb-894f5f21fd6a">
+  <name>DEV_YandexSpeller</name>
+  <synonym>
+    <key>ru</key>
+    <value>DEV_YandexSpeller</value>
+  </synonym>
+  <content>CommonModule.DEV_YandexSpeller</content>
+  <content>FunctionalOption.DEV_ИспользоватьYandexSpeller</content>
+  <content>Constant.DEV_ИспользоватьYandexSpeller</content>
+  <content>DataProcessor.DEV_YandexSpeller</content>
+</mdclass:Subsystem>

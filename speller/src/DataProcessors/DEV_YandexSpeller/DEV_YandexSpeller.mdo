@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="16e77687-75aa-4b38-bf51-74c66452f2ea">
+  <producedTypes>
+    <objectType typeId="8302cdf3-dd18-4c30-b41e-15a661dd13bb" valueTypeId="3ef96c9f-71e4-4a68-87b4-f5e6902111a4">
+    </objectType>
+    <managerType typeId="e68b09a3-85c5-4bb8-b614-085c1e458325" valueTypeId="35a35ddf-fd03-48bd-ab24-23b2c5a0831f">
+    </managerType>
+  </producedTypes>
+  <name>DEV_YandexSpeller</name>
+  <synonym>
+    <key>ru</key>
+    <value>DEV_YandexSpeller</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>
